@@ -1,2 +1,6 @@
-# yardSale
-Tienda respomsive desin con el carrito de compras
+# Platzi freontent developer practico
+
+hacer un diseño responive design acontinuacion toda su estructura:
+
+
+
